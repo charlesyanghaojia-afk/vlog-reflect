@@ -1,0 +1,10 @@
+private/
+local/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.mp4
+*.mov
+*.wav
+*.mp3
